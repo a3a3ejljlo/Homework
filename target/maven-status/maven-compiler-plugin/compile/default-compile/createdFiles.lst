@@ -1,0 +1,10 @@
+reporter\AllureReporter.class
+util\TestProperties.class
+pages\MortgageCalcPage.class
+steps\BaseSteps.class
+steps\MortgageCalcSteps.class
+pages\BasePageObject.class
+steps\MainSteps.class
+util\DriverManager.class
+annotation\FieldName.class
+pages\MainPage.class
